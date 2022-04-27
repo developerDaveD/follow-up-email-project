@@ -1,0 +1,38 @@
+
+
+html {
+    background-color: rgb(236, 236, 236);
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    max-width: 760px;
+}
+
+.content-wrapper {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    /* background-color: rgb(238, 238, 238); */
+}
+
+.heading {
+    height: 100px;
+    text-align: center;
+    /* background-color: rgb(238, 238, 238); */
+}
+
+.greeting {
+    height: 180px;
+     /* background-color: rgb(238, 238, 238); */
+}
+
