@@ -1,10 +1,10 @@
-
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap');
 
 html {
     background-color: rgb(236, 236, 236);
     margin-right: auto;
     margin-left: auto;
-    width: 80%;
+    width: 86%;
     max-width: 760px;
 }
 
@@ -15,9 +15,9 @@ html {
     margin-bottom: 40px;
     margin-left: auto;
     margin-right: auto;
-    width: 85%;
+    width: 95%;
     font-family: 'EB Garamond', serif;
-    font-size: 18px;
+    font-size: 20px;
     background-color: rgb(255, 255, 255);
 }
 
@@ -36,3 +36,14 @@ html {
      /* background-color: rgb(238, 238, 238); */
 }
 
+@media screen and (max-width: 600px) {
+
+    html {
+    margin-right: auto;
+    margin-left: auto;
+    width: 96%;
+}
+
+   .content-wrapper {
+       font-size: 18px;
+   }
